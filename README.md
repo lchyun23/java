@@ -1,2 +1,2 @@
 # java
-practive java
+practice java
